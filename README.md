@@ -1,7 +1,10 @@
-<H3>ENTER YOUR NAME: JANARTHANAN V K</H3>
-<H3>ENTER YOUR REGISTER NO. 212222230051</H3>
-<H3>EX. NO.6</H3>
-<H3>DATE:</H3>
+**ENTER YOUR NAME: JANARTHANAN V K**<br>
+
+**ENTER YOUR REGISTER NO.: 212222230051**<br>
+
+**EX.NO.6**<br>
+
+**DATE:** <br>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
